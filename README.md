@@ -24,5 +24,5 @@ Inspired by Iron Man, I've been passionate about technology since childhood, spe
 
 **📬 Contact Me!**
 
-- 📧 Email: jfvas01@gmail.com
+- 📧 Email: jfvasq1@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jvasquezcs/)
