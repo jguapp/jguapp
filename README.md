@@ -21,8 +21,7 @@ Inspired by Iron Man, I've been passionate about technology since childhood, spe
 - 🚀 **Tech Project Leadership:** Leading tech projects from concept through completion, focusing on innovation and practical application to solve real-world problems.
 - 🌟 **Machine Learning Implementation:** Implementing and fine-tuning machine learning models to solve specific industry problems, focusing on predictive analytics and automation.
 
-
 **📬 Contact Me!**
 
-- 📧 jfvasq1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jvasquezcs/)
+- jfvasq1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jvasquezcs/)
