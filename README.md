@@ -23,5 +23,6 @@ Inspired by Iron Man, I've been passionate about technology since childhood, spe
 
 **📬 Contact Me!**
 
-- jfvasq1@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jvasquezcs/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvasquezcs/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfvasq1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omgkaido)
