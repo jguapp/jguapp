@@ -32,19 +32,25 @@ class SoftwareEngineer:
         self.name = "Joel Vasquez"
         self.username = "jguapp"
         self.role = "Computer Science Student & Aspiring Software Engineer"
-        self.school = "Baruch College"
+        self.school = "Baruch College '26"
+        self.focus_areas = [
+            "Machine Learning & AI",
+            "Data Science & Engineering", 
+            "Urban Data Analytics",
+            "Research & Innovation"
+
         self.interests = [
-            "Machine Learning & AI research",
-            "Data engineering for urban projections",
-            "Building sleek Android apps",
-            "Tony Stark-level innovation"
+            "Ethical AI development for healthcare & education",
+            "Turning data into social change",
+            "Building ADHD-friendly productivity tools",
+            "Making tech accessible to everyone"
         ]
     
     def say_hi(self):
         print("Welcome to my GitHub! 👾")
-        print("CS student turned data engineer, inspired by Iron Man.")
-        print("Using ML/AI to solve real-world problems and build the future!")
-        print("Feel free to explore and watch me level up!")
+        print("Economics → CS student building ethical AI for social good.")
+        print("Using ML/AI to improve the world and build the future")
+        print("Sometimes you gotta run before you can walk" - Tony Stark)
 
 me = SoftwareEngineer()
 me.say_hi()
