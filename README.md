@@ -32,7 +32,7 @@ class SoftwareEngineer:
         self.name = "Joel Vasquez"
         self.username = "jguapp"
         self.role = "Computer Science Student & Aspiring Software Engineer"
-        self.school = "Baruch College '26"
+        self.school = "Baruch College '27"
         self.focus_areas = [
             "Machine Learning & AI",
             "Data Science & Engineering", 
