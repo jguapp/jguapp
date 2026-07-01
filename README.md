@@ -14,6 +14,15 @@
   <a href="https://builtbyjoel.vercel.app/" target="=_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="portfolio logo" />
   </a>
+  <a href="https://calendly.com/jfvasq1/30min" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white" height="25" alt="calendly logo" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="gmail logo" />
+  </a>
+  <a href="" target="=_blank">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" height="25" alt="portfolio logo" />
+  </a>
   
 </div>
 
@@ -104,7 +113,7 @@ me.say_hi()
 <div align="center">
 
 <!-- GitHub Stats with GitHub logo rank icon -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jguapp&show_icons=true&theme=material-palenight&rank_icon=github&hide=stars,issues&hide_border=true&include_all_commits=true&bg_color=00000000)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jguapp&layout=compact&theme=material-palenight&hide=c&hide_border=true&bg_color=00000000)](https://github.com/jguapp) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jguapp&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true)](https://github.com/jguapp)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=jguapp&show_icons=true&theme=material-palenight&rank_icon=github&hide=stars,issues&hide_border=true&include_all_commits=true&bg_color=00000000)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jguapp&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true)](https://github.com/jguapp)
 
 
 
