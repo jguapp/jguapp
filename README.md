@@ -4,27 +4,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jvasquezcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jfvasq1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://builtbyjoel.vercel.app/" target="=_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="portfolio logo" />
-  </a>
-  <a href="https://calendly.com/jfvasq1/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white" height="25" alt="calendly logo" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="gmail logo" />
-  </a>
-  <a href="" target="=_blank">
-    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" height="25" alt="portfolio logo" />
-  </a>
-  
-</div>
+<div align="center"><a href="https://www.linkedin.com/in/jvasquezcs" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="mailto:jfvasq1@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a> <a href="https://builtbyjoel.vercel.app/" target="=_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="portfolio logo" /></a> <a href="https://calendly.com/jfvasq1/30min" target="_blank"><img src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white" height="25" alt="calendly logo" /></a> <a href=""><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="gmail logo" /></a> <a href="" target="=_blank"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" height="25" alt="portfolio logo" /></a></div>
 
 ###
 
