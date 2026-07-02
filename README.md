@@ -45,7 +45,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
   
-<h2 align="center">Technologies & Tools  🛠️</h2>
+<h1 align="center">Technologies & Tools  🛠️</h1>
 
 <div align="center">
 
