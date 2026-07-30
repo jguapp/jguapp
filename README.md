@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBqcjBsZDMxOXRrZ2tvc3l0NzkycGFwZGZ5eWw0bmdsbzJmODhwdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Animated sticker"/>
 </div>
 
 ###
@@ -84,6 +84,7 @@ me.say_hi()
 
 <!-- GitHub Stats with GitHub logo rank icon -->
 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jguapp&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true)](https://github.com/jguapp)
 
 
 </div>
