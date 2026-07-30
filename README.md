@@ -83,7 +83,6 @@ me.say_hi()
 <div align="center">
 
 <!-- GitHub Stats with GitHub logo rank icon -->
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=jguapp&show_icons=true&theme=material-palenight&rank_icon=github&hide=stars,issues&hide_border=true&include_all_commits=true&bg_color=00000000)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jguapp&theme=material-palenight&hide_border=true&background=00000000&hide_longest_streak=true)](https://github.com/jguapp)
 
 
 
