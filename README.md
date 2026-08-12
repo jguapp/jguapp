@@ -16,30 +16,36 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Joel Vasquez"
         self.username = "jguapp"
-        self.role = "Computer Science Student & Aspiring Software Engineer"
-        self.school = "Baruch College '27"
+        self.role = "Computer Science Student & Software Engineer"
+        self.school = "Baruch College '27 (CS, Math minor)"
+        self.work = "Software Engineer Intern @ Liberty Mutual"
         self.focus_areas = [
-            "Machine Learning & AI",
-            "Data Science & Engineering", 
-            "Urban Data Analytics",
-            "Research & Innovation"
-
-        self.interests = [
-            "Ethical AI development for healthcare & education",
-            "Turning data into social change",
-            "Building ADHD-friendly productivity tools",
-            "Making tech accessible to everyone"
+            "Cloud Infrastructure (AWS, Azure, GCP)",
+            "Observability & Monitoring (Datadog, OpenTelemetry)",
+            "Distributed Systems & Backend Engineering",
+            "AI/ML Engineering & Agentic Systems",
         ]
-    
+        self.interests = [
+            "Applying AI/ML to space exploration and healthcare",
+            "Building systems that survive their own failure modes",
+            "Contributing to the open source tools I use every day",
+            "Making tech accessible to everyone",
+        ]
+        self.building = {
+            "Booklet": "Read-it-later API in TypeScript — Fastify, Postgres, ONNX inference",
+            "Calligraphy": "Distributed task queue in Go — Redis, gRPC, Grafana",
+        }
+
     def say_hi(self):
         print("Welcome to my GitHub! 👾")
-        print("Economics → CS student building ethical AI for social good.")
-        print("Using ML/AI to improve the world and build the future")
-        print("Sometimes you gotta run before you can walk" - Tony Stark)
+        print("Economics → CS, now building cloud infrastructure and AI systems.")
+        print("Sometimes you gotta run before you can walk. - Tony Stark")
+
 
 me = SoftwareEngineer()
 me.say_hi()
